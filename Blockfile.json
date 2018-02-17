@@ -1,7 +1,9 @@
 {
   "require": [
     "pkgsrc",
-    "homebrew"
+    "homebrew",
+    "habitat",
+    "packer"
   ],
   "versions": {}
 }
